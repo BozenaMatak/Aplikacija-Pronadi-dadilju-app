@@ -2,11 +2,11 @@ Aplikacija
 
 Naziv naše aplikacije je Pronađi dadilju, a namjenena je roditeljima i dadiljama.
 
-Roditelji i dadilje se registriraju te izrađuju svoji profil pri prvom korištenju, a kasnije se samo prijavljuju mailom i lozinkom. U aplikaciji se može uređivati svoj profil, pisati oglase u kojima dadilje nude svoje usluge, a roditelji traže dadilje te je moguće pretraživanje dadilje po gradovima gdje se one nalaze. Aplikacija je prvotno zamišljena za veće gradove u Hrvatskoj pa ako uspije dodati će se i neki manji gradovi i općine.
+Roditelji i dadilje se registriraju te izrađuju svoj profil pri prvom korištenju, a kasnije se samo prijavljuju mailom i lozinkom. Aplikacija nudi mogućnost postavljanja i čitanja objava koje su javne te ih mogu objaviti i roditelj i dadilja. Osim postavljanja i čitanja objava aplikacija nudi mogućnost pregleda profila trenutnog korisnika te mjenjanje postavki profila ukoliko on to želi. Unutar aplikacije napravile smo tražilicu koja omogućava pretraživanje dadilja po gradu, mogućnost pretraživanja dadilja imaju i roditelji i dadilje. Osim uređivanja osobnih podataka koji se nalaze na profilu korisnika također im je dana i mogućnost promjene lozinke.
 
 Članovi tima su Božena Matak i Željka Ivanišević.
 
-Za izradu koda aplikacije korišten je Microsoft Visual Studio te za izradu bazu podataka korišten je Firebase. Osim navedenih alata koristili smo i bootstrap linkove koji se nalaze unutar mape index.html.
+Za izradu  aplikacije koristile smo Microsoft Visual Studio te za izradu bazu podataka korišten je Firebase. Osim navedenih alata koristili smo i bootstrap linkove koji se nalaze unutar mape index.html.
 
 Link za korišteni bootstrap: https://getbootstrap.com/docs/4.0/getting-started/introduction/?fbclid=IwAR1_D4lQ3YfAYvoOPkDp-Sj4M0tz-umuYTFLnnW0k9K5ny2AEdJCeajaBvM
 

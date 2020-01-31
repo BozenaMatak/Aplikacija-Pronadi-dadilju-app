@@ -15,3 +15,7 @@ Link prototipa: https://xd.adobe.com/view/79215ea3-f131-4197-4edb-83f83352edbe-0
 Dok za ikone koje se nalaze unutar navbara poslužili smo se sa stranice koja se nalazi na
 sljedećem linku https://icons8.com/icons/set/svg.
 
+Za glazbu u pozadini videa koristili smo glazbu sa sljedećih linkova:
+https://www.youtube.com/watch?v=KK2smasHg6w
+https://www.youtube.com/watch?v=ElWN4B4Wvxw
+
